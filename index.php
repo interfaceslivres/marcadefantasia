@@ -11,7 +11,7 @@
 				<a href="#"><img src="<?php bloginfo( 'template_url' ); ?>/img/logo3.png"></a>
 			</div>
 			<div class="col-xs-offset-1 col-xs-2 col-sm-offset-1 col-sm-4 col-md-3 col-md-offset-7 search">
-				<center><input class="busca" type="search">  <img src="http://www.iconsdb.com/icons/preview/white/magnifying-glass-3-xxl.png"></center><!-- formulário de busca -->
+				<center><input class="busca" type="search">  <!--<img src="http://www.iconsdb.com/icons/preview/white/magnifying-glass-3-xxl.png">--></center><!-- formulário de busca -->
 			</div>
 			<div class="col-xs-2 col-sm-1 col-md-1 col-md-offset-1 cart"><center><img src="<?php bloginfo( 'template_url' ); ?>/img/icone-carrinho.png"></center></div> <!-- ícone do carrinho de compras -->
 			<div class="col-xs-offset-1 col-xs-2 col-sm-offset-1 col-sm-1 menu-sanduiche">
