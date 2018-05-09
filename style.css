@@ -251,15 +251,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
 }
 
 .search img {
-max-width: 17px;
+max-width: 30px;
 min-width: 12px;
 width: 100%;
+display: inline-block;
+width: 100%;
+float: right;
   }
 
 .busca {
   background: none;
   border: none;
   border-bottom: 2px solid #fff;
+  width: 200px;
   max-width: 80%;
   display: inline-block;
 }
