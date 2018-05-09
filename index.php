@@ -23,7 +23,7 @@
 	<section class="container-fluid bg-pattern"> <!-- aqui vem o bg com a pattern -->
 	<div class="container-fluid">
 		<div class="col-xs-12 col-md-4 titulo-principal">
-			<h1>DESTAQUES: <b>MARIA</b></h1> <!-- titulo principal -->
+			<h1>DESTAQUE: <b>MARIA</b></h1> <!-- titulo principal -->
 		</div>
 	</div>
 	</section>
