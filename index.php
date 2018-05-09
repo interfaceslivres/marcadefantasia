@@ -52,7 +52,7 @@
 					</div>
 					<div class="texto-conteudo-principal">
 					 	<!-- texto -->
-						<p>A Maria Magazine mantém seu propósito de mostrar os quadrinhos humorísticos paraibanos trazendo não só as tiras de Maria e companheiras, bem como a criação de outros autores, que mostram a pluralidade de nossa arte. Nesta edição, uma homenagem ao inesquecível Cristovam Tadeu, que nos deixou órfãos de sua graça contagiante e seu bem-querer incondicional. Apresentamos uma breve trajetória desse autor e boa amostragem de sua arte. Saudades, mon ami. <a href="#">Segue</a></p>
+						<p>A Maria Magazine mantém seu propósito de mostrar os quadrinhos humorísticos paraibanos trazendo não só as tiras de Maria e companheiras, bem como a criação de outros autores, que mostram a pluralidade de nossa arte. Nesta edição, uma homenagem ao inesquecível Cristovam Tadeu, que nos deixou órfãos de sua graça contagiante e seu bem-querer incondicional. Apresentamos uma breve trajetória desse autor e boa amostragem de sua arte. Saudades, mon ami. <a href="#">Seguir</a></p>
 					</div>
 				</div>
 			</div>
